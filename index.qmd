@@ -1,11 +1,19 @@
 ---
-title: "zskigen.github.io"
+title: "Z Skigen"
+image: images/z_phillies_glasses.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/z-skigen-591054206/
+    - text: GitHub
+      href: https://github.com/zskigen
+    - text: Email
+      href: mailto:zbso2022@mymail.pomona.edu
 ---
 
-This is a Quarto website.
+Hi! I’m Z, a statistics and data science student at Pomona College and a past Quantitative Analyst Associate with the Philadelphia Phillies. I am also the Director of Data Engineering & Analytics with Pomona-Pizer Baseball. Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
