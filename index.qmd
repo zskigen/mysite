@@ -15,5 +15,5 @@ about:
       href: mailto:zbso2022@mymail.pomona.edu
 ---
 
-Hi! I’m Z, a statistics and data science student at Pomona College and a past Quantitative Analyst Associate with the Philadelphia Phillies. I am also the Director of Data Engineering & Analytics with Pomona-Pizer Baseball. Welcome!
+Hi! I’m Z, a statistics and data science student at Pomona College and a past Quantitative Analyst Associate with the Philadelphia Phillies. I am also the Director of Data Engineering & Analytics with Pomona-Pitzer Baseball. Welcome!
 
