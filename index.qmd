@@ -1,19 +1,31 @@
 ---
 title: "Z Skigen"
+pagetitle: "ZS"
+subtitle: "Statistics & Data Science at Pomona College"
 image: images/z_phillies_glasses.jpeg
-toc: false
-about: 
-  template: jolla
-  image-shape: round
-  image-width: 17em
+image-alt: "Z Skigen at a Philadelphia Phillies press conference"
+about:
+  template: solana
+  image-width: 28em
+  id: hero-heading
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/z-skigen-591054206/
-    - text: GitHub
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://www.linkedin.com/in/zskigen/
+    - icon: github
+      aria-label: "GitHub"
       href: https://github.com/zskigen
-    - text: Email
+    - icon: envelope
+      aria-label: "Email"
       href: mailto:zbso2022@mymail.pomona.edu
+page-layout: full
 ---
 
-Hi! I’m Z, a statistics and data science student at Pomona College and a past Quantitative Analyst Associate with the Philadelphia Phillies. I am also the Director of Data Engineering & Analytics with Pomona-Pitzer Baseball. Welcome!
+<br><br>
+
+::: {#hero-heading}
+I am a statistician, baseball analyst, and data scientist with a passion for turning complex problems into actionable insight. My **research** applies Bayesian causal inference to questions of transportability — asking when and how findings from one population can inform another. My **baseball** work spans player evaluation, ABS challenge modeling, and building data infrastructure for front offices and college programs alike.
+
+[Learn more about me →](/about){.about-links .subtitle}
+:::
 

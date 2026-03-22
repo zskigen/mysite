@@ -1,0 +1,59 @@
+/*-- scss:defaults --*/
+
+// Import Google fonts
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Danfo&display=swap');
+
+
+// Colors
+$brick-red: #D1462F;
+$honey-gold: #D9AE61;
+$dark-chocolate: #573D1C;
+$amber: #c8963E;
+$soft-gold: #E3C567;
+$light-orange: #f1ba8b;
+$custard: #FFF9EB;
+$marble: #7e0306;
+$cloud: #CDD0DB;
+$aperol: #e27921;
+
+// Base Document Colors
+$body-bg: $custard; // page background
+$navbar-bg: $aperol;
+
+$headings-font-family: 'Playfair Display', serif;
+$font-family-sans-serif: 'Lato', sans-serif;
+$headings-font-weight: 700;
+
+/*-- scss:rules --*/
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, .title {
+  font-family: 'Playfair Display', serif;
+}
+
+.navbar-brand {
+  font-family: 'Danfo', serif;
+  font-size: 1.4rem;
+  font-weight: 400;  /* Danfo is a display font, no bold variant */
+  letter-spacing: 0.05em;
+}
+
+.navbar-nav .nav-link {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+}
+
+.page-full {
+  background-image: url('../images/ggbridge.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}

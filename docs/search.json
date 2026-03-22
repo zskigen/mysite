@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Z Skigen",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "this is where some cool stuff lives. yay!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Z Skigen",
     "section": "",
-    "text": "Hi! I’m Z, a statistics and data science student at Pomona College and a past Quantitative Analyst Associate with the Philadelphia Phillies. I am also the Director of Data Engineering & Analytics with Pomona-Pitzer Baseball. Welcome!"
+    "text": "I am a statistician, baseball analyst, and data scientist with a passion for turning complex problems into actionable insight. My research applies Bayesian causal inference to questions of transportability — asking when and how findings from one population can inform another. My baseball work spans player evaluation, ABS challenge modeling, and building data infrastructure for front offices and college programs alike.\nLearn more about me →"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Z Skigen",
+    "section": "",
+    "text": "my projects here. thesis and capstone. baseball"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "who am i?/?"
   }
 ]

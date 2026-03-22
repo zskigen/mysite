@@ -3,24 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Z Skigen"
+  title: "ZS"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
-      - href: radio.qmd
-        text: Radio
+    logo: assets/zs-logo.svg
+    right:
+      - text: About
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Blog
+        href: blog.qmd
 
 format:
   html:
-    theme: 
-      light: United
-    #css: styles.css
-    toc: true
-    page-layout: full
+    theme:
+      light: [united, styles.scss]
+    toc: false
 
 editor: visual
