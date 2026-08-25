@@ -7,6 +7,8 @@
   },
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/projects/thesis/index.html"
+    ]
   }
 ]

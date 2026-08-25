@@ -1,6 +1,5 @@
 ---
 title: "Z Skigen"
-pagetitle: "ZS"
 subtitle: "Statistics & Data Science at Pomona College"
 image: "images/zgrad.jpg"
 about:

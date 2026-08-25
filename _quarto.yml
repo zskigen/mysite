@@ -4,16 +4,18 @@ project:
   resources:
     - google4b13fe5c076ff8e0.html
 website:
-  title: "ZS"
-  site-url: "https://zskigen.github.io"
+  title: "Z Skigen"          # Browser tab title / metadata
+  favicon: images/zslogo.png    # Sets the browser tab icon
   navbar:
+    title: "ZS"              # Top-left navigation text
     right:
-      - text: About
+      - text: "ABOUT"
         href: about.qmd
-      - text: Projects
+      - text: "PROJECTS"
         href: projects.qmd
-      - posts.qmd
-      
+      - text: "BLOG"
+        href: blog.qmd
+
 format:
   html:
     theme:
