@@ -5,12 +5,11 @@ format:
     page-layout: article
 ---
 
-###  My Statistics Journey
+### My Statistics Journey
 
-I'm Z (they/them)! I've had a pretty nonlinear math journey, beginning college as a politics major and deciding to major in math later than most. 
+I'm Z (they/them)! I've had a pretty nonlinear math journey, beginning college as a politics major and deciding to major in math later than most.
 
-The switch to math was motivated by my goal of working for a Major League Baseball team in a Research & Development role. And 
-
+The switch to math was motivated by my goal of working for a Major League Baseball team in a Research & Development role. And
 
 ## Why I love Statistics and Data Science
 

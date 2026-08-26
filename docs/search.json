@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "Why does AI Slop Make You So Angry?\n\n\n\nAI Images\n\nAI Slop\n\nNeuroscience\n\n\n\nA Cogntitive and Neurological Perspective\n\n\n\nZ Skigen, Jazelle Saligumba\n\n\nMay 5, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "I’m Z (they/them)! I’ve had a pretty nonlinear math journey, beginning college as a politics major and deciding to major in math later than most.\nThe switch to math was motivated by my goal of working for a Major League Baseball team in a Research & Development role. And"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Z Skigen",
+    "objectID": "about.html#why-i-love-statistics-and-data-science",
+    "href": "about.html#why-i-love-statistics-and-data-science",
+    "title": "About Me",
+    "section": "Why I love Statistics and Data Science",
+    "text": "Why I love Statistics and Data Science\nI love the versaility and"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Hi! My name is Z. I’m an incoming master’s student in Statistics and Data Science at UC Berkeley and Mathematics Alum of Pomona College. I have experience conducting research with Major League Baseball teams, causal inference research, and applied modeling.\nLearn more about me →"
+    "text": "Inference Without Data: A Causal Transportability Framework for Ketamine Effects in TGD Populations\n\n\n\nCausal Inference\n\nBayesian Inference\n\nHealthcare\n\n\n\nHow do you estimate a treatment effect for a population that’s never been in a clinical trial? This thesis builds a causal data fusion framework for estimating ketamine’s…\n\n\n\nApr 18, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2026-05-5-ai-slop/index.html",
@@ -28,24 +35,24 @@
     "text": "Footnotes\n\n\n(artificial intelligence, slang) A usually undesired yellow tint commonly appearing in images produced by generative AI. (Wiktionary contributors 2025)↩︎"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Z Skigen",
     "section": "",
-    "text": "Inference Without Data: A Causal Transportability Framework for Ketamine Effects in TGD Populations\n\n\n\nCausal Inference\n\nBayesian Inference\n\nHealthcare\n\n\n\nHow do you estimate a treatment effect for a population that’s never been in a clinical trial? This thesis builds a causal data fusion framework for estimating ketamine’s…\n\n\n\nApr 18, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Hi! My name is Z. I’m a master’s student in Statistics and Data Science at UC Berkeley and a Mathematics Alum of Pomona College. I have experience conducting research with Major League Baseball teams, causal inference research, and applied modeling.\nLearn more about me →"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
     "section": "",
-    "text": "I’m Z (they/them)! I’ve had a pretty nonlinear math journey, beginning college as a politics major and deciding to major in math later than most.\nThe switch to math was motivated by my goal of working for a Major League Baseball team in a Research & Development role. And"
+    "text": "Why does AI Slop Make You So Angry?\n\n\n\nAI Images\n\nAI Slop\n\nNeuroscience\n\n\n\nA Cogntitive and Neurological Perspective\n\n\n\nZ Skigen, Jazelle Saligumba\n\n\nMay 5, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html#why-i-love-statistics-and-data-science",
-    "href": "about.html#why-i-love-statistics-and-data-science",
-    "title": "About Me",
-    "section": "Why I love Statistics and Data Science",
-    "text": "Why I love Statistics and Data Science\nI love the versaility and"
+    "objectID": "projects/thesis/index.html",
+    "href": "projects/thesis/index.html",
+    "title": "Inference Without Data: A Causal Transportability Framework for Ketamine Effects in TGD Populations",
+    "section": "",
+    "text": "Write about the project here…\n\n\n\nCitationBibTeX citation:@online{skigen2026,\n  author = {Skigen, Z},\n  title = {Inference {Without} {Data:} {A} {Causal} {Transportability}\n    {Framework} for {Ketamine} {Effects} in {TGD} {Populations}},\n  date = {2026-04-18},\n  url = {https://zskigen.github.io/projects/thesis/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nSkigen, Z. 2026. “Inference Without Data: A Causal\nTransportability Framework for Ketamine Effects in TGD\nPopulations.” April 18, 2026. https://zskigen.github.io/projects/thesis/."
   }
 ]

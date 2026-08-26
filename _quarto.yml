@@ -4,18 +4,23 @@ project:
   resources:
     - google4b13fe5c076ff8e0.html
 website:
-  title: "Z Skigen"          # Browser tab title / metadata
-  favicon: images/zslogo.png    # Sets the browser tab icon
+  title: "Z Skigen"          # Browser tab title
+  favicon: images/zslogo.png    # browser tab icon
   navbar:
     title: "ZS"              # Top-left navigation text
     right:
-      - text: "ABOUT"
+      - text: "About"
         href: about.qmd
-      - text: "PROJECTS"
+      - text: "Projects"
         href: projects.qmd
-      - text: "BLOG"
-        href: blog.qmd
-
+      - text: "Blog"
+        href: posts.qmd
+        
+  page-footer:
+      left: "&copy; Copyright 2026, Z Skigen"
+      right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/zskigen/zskigen.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+      
+      
 format:
   html:
     theme:

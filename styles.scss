@@ -50,4 +50,13 @@ h1, h2, h3, .title {
   font-size: 0.85rem;
 }
 
+/*
+.nav-footer, .nav-footer a {
+  color: $aperol;
+}
 
+*/
+
+.nav-footer-right a:last-child {
+  text-decoration: none;
+}

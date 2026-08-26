@@ -23,7 +23,8 @@ page-layout: full
 <br><br>
 
 ::: {#hero-heading}
-Hi! My name is Z. I'm an incoming master's student in Statistics and Data Science at UC Berkeley and Mathematics Alum of Pomona College. I have experience conducting research with Major League Baseball teams, causal inference research, and applied modeling.
+Hi! My name is Z. I'm a master's student in Statistics and Data Science at UC Berkeley and a Mathematics Alum of Pomona College. I have experience conducting research with Major League Baseball teams, causal inference research, and applied modeling.
 
-[Learn more about me →](/about){.about-links .subtitle}
+[Learn more about me →](about.qmd){.about-links .subtitle}
+
 :::
